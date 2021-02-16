@@ -61,13 +61,14 @@
                                 </li>
                                 <li><a href="https://blog.moeworld.tech/guestbook/" one-link-mark="yes"><i class="fa fa-pencil"></i> 留言板</a></li>
                                 <li><a href="https://blog.moeworld.tech/about/" one-link-mark="yes"><i class="fa fa-rocket"></i> 关于</a></li>
+                                <li><a href="https://travellings.now.sh/" one-link-mark="yes"><i class="fa fa-paper-plane" aria-hidden="true"></i> Travelling</li>
                                 </ul></nav>
 
                                 <!--额外的菜单-->
                                 <!--<nav id="kratos-menu-wrap" class="menu-%e9%bb%98%e8%ae%a4%e8%8f%9c%e5%8d%95-container">-->
-                                <!--  <li><a href="https://travellings.now.sh/" one-link-mark="yes">-->
-                                <!--      <i class="fa fa-paper-plane" aria-hidden="true"></i> Travelling-->
-                                <!--  </li> -->
+                                 <!-- <li><a href="https://travellings.now.sh/" one-link-mark="yes">
+                                     <i class="fa fa-paper-plane" aria-hidden="true"></i> Travelling
+                                 </li> -->
                                 <!-- </ul>-->
                                 <!--</nav>-->
                             </div>
