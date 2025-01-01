@@ -16,6 +16,20 @@
 
 This is a **secondary development** version of Kratos. For the original version, please visit [https://github.com/Vtrois/Kratos](https://github.com/Vtrois/Kratos).
 
+---
+
+—— 我们的故事没有结束，旅程也还在继续
+
+**此项目目前在 https://github.com/KJZH001/Moe-kratos-pjax 活跃更新，请在新的家园继续关注我们！**
+
+> 一切来自于梦，万物皆可为萌！
+
+我们在这里，等着你的到来哦w
+
+<del>说起来，我都差点忘了这里还有一份老的仓库了呢w</del>
+
+—— 空梦世界 MoeWorld-CN Inc., 晓空, 2025.1.1
+
 ## Before start
 
 Star this project please, thank you!
